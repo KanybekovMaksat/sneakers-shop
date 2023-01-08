@@ -1,0 +1,20 @@
+.Logo{
+    display: flex;
+}
+.LogoInfo{
+    display: flex;
+    flex-direction: column;
+
+    margin-left: 16px;
+}
+.LogoTitle{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+}
+.LogoSubtitle{
+    font-size: 14px;
+    line-height: 17px;
+    color: #9D9D9D;    
+}

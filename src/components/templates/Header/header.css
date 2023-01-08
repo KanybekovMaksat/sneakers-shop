@@ -1,0 +1,26 @@
+.HeaderContent{
+    padding-top: 45px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.HeaderList{
+    display: flex;
+}
+.HeaderItem{
+    display: flex;
+    margin: 0px 15px;
+}
+.HeaderTotal{
+    margin-left: 10px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #5C5C5C;
+}
+.Line{
+    width: 100%;
+    border: 1px solid #F4F4F4;
+    margin: 45px 0px;
+}
